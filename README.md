@@ -1,5 +1,7 @@
 # RuneLite Nex External Plugin for Steroid
 
+Plugin is in beta. Will add more features as new mechanics get discovered. Please report bugs on Discord.
+
 ## Features
 
 ### Show Targetable
