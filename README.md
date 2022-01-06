@@ -1,0 +1,2 @@
+# nex
+RuneLite Nex Plugin
