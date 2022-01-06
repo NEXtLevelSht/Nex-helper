@@ -1,19 +1,5 @@
 # RuneLite Nex External Plugin for Steroid
 
-## Download & Installation
-
-1. Download [yuri-nex-v1.0.jar](https://socket-aus.kthisiscvpv.com/yuri-nex-v1.0.jar)
-
-2. Open ``steroidexternalplugins`` folder on game client.
-
-![open-externals](https://user-images.githubusercontent.com/6757526/148394529-29b0f947-a9f5-4eba-a057-e2bdc315d079.png)
-
-3. Drag and drop.
-
-![steroid-downloads](https://user-images.githubusercontent.com/6757526/148395302-184a960f-1223-4b61-8cf3-ddf0b3b3d445.png)
-
-4. Restart your client.
-
 ## Features
 
 ### Show Targetable
